@@ -43,7 +43,7 @@ html {
 }
 body {
   font-size: 15px;
-  line-height: 1.46666667;
+  line-height: 0.7;
   color: #777777;
   background-color: #ffffff;
   font-weight: 300;
@@ -1010,7 +1010,7 @@ tbody {
   display: none;
 }
 .fixed-header-on .header .logo img {
-  max-height: 30px;
+  max-height: 60px;
 }
 .fixed-header-on .header .site-slogan,
 .fixed-header-on .header.centered .header-left {
@@ -2303,7 +2303,7 @@ fieldset[disabled] .btn-default {
 .btn {
   padding: 7px 20px;
   font-size: 14px;
-  line-height: 1.46666667;
+  line-height: 0.2;
   border-radius: 3px;
   margin: 10px 0;
 }
